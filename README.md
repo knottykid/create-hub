@@ -13,8 +13,18 @@ and made a REST API that fetch informations from the server Data Base and the us
 
 [Create Hub](https://create-hub.herokuapp.com/)
 
+<h2>Team Members:</h2>
+<table>
+  <tbody>
+    <tr>
+      <td align="cemter">
 ![alt](https://avatars.githubusercontent.com/u/73444785?v=4)
 [**John Github**](https://github.com/knottykid/)
-
+      </td>
+      <td align="center">
 ![alt](https://avatars.githubusercontent.com/u/64961033?v=4)
 [**Tom Github**](https://github.com/Tomsylva)
+</td>
+</tr>
+<tbody>
+  </table>
