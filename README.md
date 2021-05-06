@@ -18,12 +18,24 @@ and made a REST API that fetch informations from the server Data Base and the us
   <tbody>
     <tr>
       <td align="cemter">
-![alt](https://avatars.githubusercontent.com/u/73444785?v=4)
-[**John Github**](https://github.com/knottykid/)
+        <a href="https://github.com/knottykid/">
+          <img src="https://avatars.githubusercontent.com/u/73444785?v=4" width="100px;"alt style="max-width: 100%;">
+          <br>
+          <sub>
+            <b>John Rosario</b>
+          </sub>
+        </a>
+  </br>
       </td>
       <td align="center">
-![alt](https://avatars.githubusercontent.com/u/64961033?v=4)
-[**Tom Github**](https://github.com/Tomsylva)
+  <a href="https://github.com/Tomsylva/">
+          <img src="https://avatars.githubusercontent.com/u/64961033?v=4" width="100px;"alt style="max-width: 100%;">
+          <br>
+          <sub>
+            <b>Tom Sylva</b>
+          </sub>
+        </a>
+  </br>    
 </td>
 </tr>
 <tbody>
